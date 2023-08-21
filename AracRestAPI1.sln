@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AracRestAPI1", "AracRestAPI1\AracRestAPI1.csproj", "{79977A66-E2AF-4FA7-A0F0-64E5D79099E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79977A66-E2AF-4FA7-A0F0-64E5D79099E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79977A66-E2AF-4FA7-A0F0-64E5D79099E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79977A66-E2AF-4FA7-A0F0-64E5D79099E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79977A66-E2AF-4FA7-A0F0-64E5D79099E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AA2ACFF-FDE3-43EA-86E8-5A22AA1A4217}
+	EndGlobalSection
+EndGlobal
